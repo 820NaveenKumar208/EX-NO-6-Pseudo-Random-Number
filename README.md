@@ -1,5 +1,6 @@
+### DEVELOPED BY : Naveen Kumar T.
+### REGISTER NO. : 212223220067
 # Exp-06-Implementation of Pseudorandom Number Generation using Standard library
-## Date : 16/10/2024
 ## AIM:
 To implement Pseudorandom Number Generation using Standard Library.
 
@@ -26,9 +27,8 @@ Print each generated random number.
 End the program.
 
 ## PROGRAM:
-### DEVELOPED BY : AKASH KUMAR M.
-### REGISTER NO. : 212223230010
-```c
+
+```
 #include <stdio.h>
 
 #define A 1664525
@@ -56,7 +56,7 @@ int main() {
 }
 ```
 ## Output:
-![output](.12.png)
+![Screenshot 2024-10-24 041858](https://github.com/user-attachments/assets/6c873d04-baf0-4656-a429-666e98db75d2)
 
 
 ## Result :
