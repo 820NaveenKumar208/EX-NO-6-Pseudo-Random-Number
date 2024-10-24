@@ -1,4 +1,5 @@
-# DEVELOPED BY : Naveen Kumar T.# REGISTER NO. : 212223220067
+# DEVELOPED BY : Naveen Kumar T.
+# REGISTER NO. : 212223220067
 # Exp-06-Implementation of Pseudorandom Number Generation using Standard library
 ## AIM:
 To implement Pseudorandom Number Generation using Standard Library.
